@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746531843791",
+    "project_id": "hopistalmanagementsystem",
+    "storage_bucket": "hopistalmanagementsystem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746531843791:android:ed8dcbeaef0de449fa91ba",
+        "android_client_info": {
+          "package_name": "com.example.hopistal_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPns-DweCIX0H2IDlG81VbcMK23DI3hDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
